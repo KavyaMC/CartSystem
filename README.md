@@ -1,4 +1,4 @@
-# Interactive Frontend Cart System
+`# Interactive Frontend Cart System
 
 An interactive shopping cart built using **HTML**, **JavaScript**, and **Bootstrap** to demonstrate modern frontend development concepts through one connected application.
 
@@ -54,14 +54,13 @@ Implemented accessibility features include:
 
 ## Project Structure
 
-```text
-.
+root/
 ├── index.html
 ├── script.js
 ├── README.md
 
 ## Running the Project
-github page:
+github page: [CartSystem] (https://kavyamc.github.io/CartSystem/)
 
 ## Learning Outcomes
 
